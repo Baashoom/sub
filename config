@@ -1,4 +1,3 @@
 vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=w.ooshab.site&fp=chrome&type=ws&sni=p2.ooshab.site#WARP1
 vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=w.ooshab.site&fp=chrome&type=ws&sni=p1.ooshab.site#WARP1
 vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=w.ooshab.site&fp=chrome&type=ws&sni=p0.ooshab.site#WARP1
-
