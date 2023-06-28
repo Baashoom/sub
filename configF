@@ -1,12 +1,4 @@
-vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?encryption=none&security=tls&sni=p1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=war1.ooshab.sbs&path=%2F%3Fed%3D2048#WARP1
-vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?encryption=none&security=tls&sni=p2.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=war1.ooshab.sbs&path=%2F%3Fed%3D2048#WARP1
-vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?encryption=none&security=tls&sni=p0.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=war1.ooshab.sbs&path=%2F%3Fed%3D2048#WARP1
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.247:443?encryption=none&security=tls&sni=p1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=gm1.ooshab.sbs&path=%2F%3Fed%3D2048#Germany
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.247:443?encryption=none&security=tls&sni=p2.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=gm1.ooshab.sbs&path=%2F%3Fed%3D2048#Germany
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.247:443?encryption=none&security=tls&sni=gm1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=p0.ooshab.sbs&path=%2F%3Fed%3D2048#Germany
+vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?encryption=none&security=tls&sni=war1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=war1.ooshab.sbs&path=%2F%3Fed%3D2048#WARP1
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.247:443?encryption=none&security=tls&sni=war1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=gm1.ooshab.sbs&path=%2F%3Fed%3D2048#Germany
 vless://96031e6b-3bfc-4213-b801-879a32598027@104.31.16.247:443?encryption=none&security=tls&sni=p1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=am4.ooshab.sbs&path=%2F#amin
-vless://96031e6b-3bfc-4213-b801-879a32598027@104.31.16.247:443?encryption=none&security=tls&sni=p0.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=am4.ooshab.sbs&path=%2F#amin
-vless://96031e6b-3bfc-4213-b801-879a32598027@104.31.16.247:443?encryption=none&security=tls&sni=p2.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=am4.ooshab.sbs&path=%2F#amin
-vless://ba8ee466-c216-4f83-b05d-f849390fc533@104.31.16.247:443?encryption=none&security=tls&sni=p1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sc.ooshab.sbs&path=%2F%3Fed%3D2048#socks
-vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=war1.ooshab.sbs&fp=chrome&type=ws&sni=war1.ooshab.sbs#%F0%9F%87%A9%F0%9F%87%AA+WPS
-vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@185.193.30.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=war1.ooshab.sbs&fp=chrome&type=ws&sni=p1.ooshab.sbs#WARP1.rightel
+vless://ba8ee466-c216-4f83-b05d-f849390fc533@104.31.16.247:443?encryption=none&security=tls&sni=sc.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sc.ooshab.sbs&path=%2F%3Fed%3D2048#socks
