@@ -4,3 +4,4 @@ vless://ba8ee466-c216-4f83-b05d-f849390fc533@104.31.16.247:443?encryption=none&s
 vless://1f9b187c-27dc-4b89-ad50-9aa6422f7871@193.9.49.0:443?encryption=none&security=tls&sni=war1.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=war1.ooshab.sbs&path=%2F#warp__SHT_IRCF
 vless://ba8ee466-c216-4f83-b05d-f849390fc533@193.9.49.0:443?encryption=none&security=tls&sni=sc.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sc.ooshab.sbs&path=%2F%3Fed%3D2048#socks_SHT_IRCF
 vless://96031e6b-3bfc-4213-b801-879a32598027@193.9.49.0:443?encryption=none&security=tls&sni=am4.ooshab.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=am4.ooshab.sbs&path=%2F#amin_SHT_IRCF
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=iran.ooshab.sbs&fp=chrome&type=ws&sni=iran.ooshab.sbs#%F0%9F%87%A9%F0%9F%87%AA+Germany+Cypherpunks
